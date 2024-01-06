@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "@swc/wasm": "^1.3.91",
-    "module-from-string": "^3.3.0"
+    "module-from-string": "github:vanling/module-from-string"
   }
 }
